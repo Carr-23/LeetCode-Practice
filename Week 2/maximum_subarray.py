@@ -13,7 +13,7 @@ class Solution:
             if sum > largestSum:
                 largestSum = sum
 
-            # if j > largestSum:
+            # if sum - nums[j] > largestSum:
             #     sum -= nums[i]
             #     i += 1
             #     largestSum = sum
