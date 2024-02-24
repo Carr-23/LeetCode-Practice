@@ -1,0 +1,3 @@
+Making Heap: https://www.hackerrank.com/challenges/qheap1/problem
+BFS: https://www.hackerrank.com/challenges/bfsshortreach/problem
+Snakes & Ladders: https://www.hackerrank.com/challenges/the-quickest-way-up/problem
