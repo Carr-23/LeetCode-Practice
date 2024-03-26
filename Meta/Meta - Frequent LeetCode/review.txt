@@ -1,0 +1,26 @@
+Could be better?
+https://leetcode.com/problems/valid-palindrome-ii/
+
+Bad Solution:
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+
+Bad Solution:
+https://leetcode.com/problems/moving-average-from-data-stream
+
+Time Limit:
+https://leetcode.com/problems/powx-n/
+
+Wrong:
+https://leetcode.com/problems/merge-intervals/
+
+Bad Solution:
+https://leetcode.com/problems/lru-cache/
+
+Wrong:
+https://leetcode.com/problems/exclusive-time-of-functions/
+
+Error:
+https://leetcode.com/problems/copy-list-with-random-pointer/
+
+Wrong:
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
