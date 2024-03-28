@@ -1,4 +1,4 @@
-37/66
+38/66
 
 
 --------------------------------
@@ -31,3 +31,10 @@ https://leetcode.com/problems/copy-list-with-random-pointer/
 
 Wrong:
 https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+
+Wrong:
+https://leetcode.com/problems/next-permutation/
+
+Bad Solution:
+https://leetcode.com/problems/top-k-frequent-elements/
+
